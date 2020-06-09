@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NavigationDrawerWithRecyclerView</string>
+    <string name="topic">topic</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="drag_to_view_navigation_drawer">Drag To View Navigation Drawer</string>
+
+    <string-array name="TOPICS">
+        <item>LIVE</item>
+        <item>My News</item>
+        <item>Most Read</item>
+        <item>Most Watched</item>
+        <item>More Topics</item>
+        <item>Science</item>
+        <item>Technologies</item>
+        <item>Weather</item>
+        <item>World News</item>
+        <item>Entertainment</item>
+        <item>Magazine</item>
+        <item>Cricket</item>
+        <item>Formula</item>
+        <item>Football</item>
+        <item>Tennis</item>
+    </string-array>
+
+</resources>

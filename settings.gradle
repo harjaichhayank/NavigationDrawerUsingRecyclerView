@@ -1,0 +1,2 @@
+rootProject.name='NavigationDrawerWithRecyclerView'
+include ':app'
